@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Pandita</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate programer from India</h3>
 
 - 🔭 I’m currently learning DSA [Learning ADS](https://github.com/piyush-p7/Learning-ADS)
 
