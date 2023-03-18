@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning DSA [Learning ADS](https://github.com/piyush-p7/Learning-ADS)
 
-- 🌱 I’m currently learning **Flutter amd MERN Stack**
+- 🌱 I’m currently upskilling **Flutter amd MERN Stack**
 
 - 👯 I’m also skilling up on MERN stack [JS](https://github.com/piyush-p7/JS)
 
