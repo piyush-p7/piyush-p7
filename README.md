@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently upskilling **Flutter amd MERN Stack**
 
-- 👯 I’m also skilling up on MERN stack [JS](https://github.com/piyush-p7/JS)
+- 👯 I’m also skilling up on [JavaScript](https://github.com/piyush-p7/JS)
 
-- 👨‍💻 All of my information also available at [https://portfolio-piyush.piyush-vit.repl.co/](https://portfolio-piyush.piyush-vit.repl.co/)
+- 👨‍💻 All of my information also available at my [Portfolio](https://portfolio-piyush.piyush-vit.repl.co/)
 
 - 💬 Ask me about **DSA, MERN, Flutter**
 
 - 📫 Reach me: **piyushpandita151@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-piyush.piyush-vit.repl.co/Resume_Piyush.pdf](https://portfolio-piyush.piyush-vit.repl.co/Resume_Piyush.pdf)
+- 📄 Know about my experiences from [Resume](https://portfolio-piyush.piyush-vit.repl.co/Resume_Piyush.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
